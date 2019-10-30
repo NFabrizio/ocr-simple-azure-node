@@ -9,7 +9,7 @@ Below are the instructions for installing this application.
 
 ### Environment Set Up  
 1. Install node.  
-   1. Download the latest version of Node for your OS at (this link)[https://nodejs.org/en/download/].  
+   1. Download the latest version of Node for your OS at [this link](https://nodejs.org/en/download/).  
       Alternatively, look for the link at the bottom of the page linked above for
       the link to install Node using a package manager like Homebrew.  
 2. Clone this repository to your local environment.  
